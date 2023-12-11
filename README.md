@@ -1,0 +1,1 @@
+Contains two cnns, one pre-trained with mobilenetv2 and one created&trained within the project. Run transfer.m and then ultrasound_analyze.m to be able to run cnn.m, using the network we trained. Straight up run pretained_cnn.m to use the network mobilenetv2. The ratio is %70 training, %15 test and %15 validation.
